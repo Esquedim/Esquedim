@@ -6,6 +6,7 @@ Sobre mim
 Sou desenvolvedor front-end com experiência em criação de interfaces modernas, responsivas e funcionais. Trabalho como freelancer, desenvolvendo sites e aplicações web personalizados de acordo com a necessidade de cada cliente. Possuo conhecimento sólido em HTML, CSS, JavaScript, Java, Git, Node.js, SQL e MySQL. Estou sempre em busca de aprimorar minhas habilidades e entregar soluções eficientes, com foco na experiência do usuário e na performance dos projetos.
 
 ### Linguagens e Tecnologia
+
 <img 
     align="left" 
     alt="HTML"
@@ -28,16 +29,17 @@ Sou desenvolvedor front-end com experiência em criação de interfaces modernas
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
-    alt="Javat" 
+    alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src=src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
 <img 
     align="left" 
     alt="JQuery" 
@@ -53,4 +55,13 @@ Sou desenvolvedor front-end com experiência em criação de interfaces modernas
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
