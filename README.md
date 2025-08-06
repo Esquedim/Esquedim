@@ -71,7 +71,7 @@ Sou desenvolvedor front-end com experiência em criação de interfaces modernas
 
 ### 📊 Estatísticas
 
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -87,4 +87,3 @@ Sou desenvolvedor front-end com experiência em criação de interfaces modernas
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esquedim&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
