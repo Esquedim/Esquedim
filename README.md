@@ -4,8 +4,8 @@
 
 Sobre mim
 Sou desenvolvedor front-end com experiência em criação de interfaces modernas, responsivas e funcionais. Trabalho como freelancer, desenvolvendo sites e aplicações web personalizados de acordo com a necessidade de cada cliente. Possuo conhecimento sólido em HTML, CSS, JavaScript, Java, Git, Node.js, SQL e MySQL. Estou sempre em busca de aprimorar minhas habilidades e entregar soluções eficientes, com foco na experiência do usuário e na performance dos projetos.
-
-### Linguagens e Tecnologia
+---
+### 🤖 Linguagens e Tecnologia
 
 <img 
     align="left" 
@@ -65,3 +65,26 @@ Sou desenvolvedor front-end com experiência em criação de interfaces modernas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Esquedim&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esquedim&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
