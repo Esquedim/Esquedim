@@ -1,4 +1,4 @@
-## Malone Esquedim
+## 👩🏻‍💻 Malone Esquedim
 
 **`Desenvolvedor Front-End`**
 
