@@ -1,2 +1,56 @@
 ## Malone Esquedim
 
+**`Desenvolvedor Front-End`**
+
+Sobre mim
+Sou desenvolvedor front-end com experiência em criação de interfaces modernas, responsivas e funcionais. Trabalho como freelancer, desenvolvendo sites e aplicações web personalizados de acordo com a necessidade de cada cliente. Possuo conhecimento sólido em HTML, CSS, JavaScript, Java, Git, Node.js, SQL e MySQL. Estou sempre em busca de aprimorar minhas habilidades e entregar soluções eficientes, com foco na experiência do usuário e na performance dos projetos.
+
+### Linguagens e Tecnologia
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Javat" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
